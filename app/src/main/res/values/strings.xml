@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A lo Cubano</string>
+    <string name="description">Learn how to dance the most popular dance in Cuba called \"Casino\" !</string>
+    <string name="contact">Contact us:</string>
+    <string name="imageDescription">Casino Image</string>
+    <string name="phone">699-999-999</string>
+    <string name="site">www.alocubano.pl</string>
+    <string name="address">ul. Złota 3, Warsaw</string>
+</resources>
