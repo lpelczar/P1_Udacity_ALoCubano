@@ -5,4 +5,4 @@ Project 1: Build a single screen app - Design and implement a simple app that di
 ## Screenshots
 
 
-<img src="https://raw.github.com/lpelczar/P1_Udacity_ALoCubano/master/screenshots/p1-1.png" width="400">
+<img src="https://raw.github.com/lpelczar/P1_Udacity_ALoCubano/master/screenshots/p1-1.png" width="800">
