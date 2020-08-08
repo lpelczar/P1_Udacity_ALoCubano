@@ -4,4 +4,4 @@ Project 1: Build a single screen app - Design and implement a simple app that di
 
 ## Screenshots
 
-![alocubano](https://discourse-cdn-sjc3.com/udacity/uploads/default/original/4X/6/6/d/66d570dc531d93f73bd2d63fc9cb9d5fe7a15f38.PNG)
+![c1](https://raw.github.com/lpelczar/P1_Udacity_ALoCubano/master/screenshots/p1.png)
